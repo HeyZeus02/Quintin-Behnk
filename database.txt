@@ -1,0 +1,87 @@
+PAYER-PROVIDER AGREEMENT
+
+This Agreement ("Agreement") is made and entered into as of August 19, 2024 ("Effective Date"), by and between:
+
+Payer:
+HealthSecure Insurance Company
+123 Health Avenue
+Omaha, NE 68102
+("Payer")
+
+Provider:
+Evergreen Health Services
+456 Wellness Street
+Omaha, NE 68106
+("Provider")
+
+Recitals:
+WHEREAS, the Payer is a health insurance company providing healthcare benefits to its members ("Members");
+WHEREAS, the Provider is a healthcare organization offering medical services to patients;
+WHEREAS, the Payer desires to enter into an agreement with the Provider to provide healthcare services to Members under the terms set forth herein;
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. Services Provided
+1.1 The Provider agrees to provide medically necessary healthcare services ("Services") to Members as outlined in the attached Exhibit A, which includes primary care, specialty services, and emergency care.
+
+1.2 The Provider shall maintain the necessary licenses, accreditations, and certifications to provide the Services.
+
+2. Compensation
+2.1 The Payer agrees to compensate the Provider for Services rendered to Members according to the fee schedule outlined in Exhibit B.
+
+2.2 Payments shall be made within 30 days of receiving a clean claim from the Provider.
+
+2.3 The Provider shall submit claims electronically using the standardized claim forms approved by the Payer.
+
+2.4 The Payer shall not be liable for any charges exceeding the agreed-upon fee schedule unless otherwise authorized in writing.
+
+3. Term and Termination
+3.1 This Agreement shall commence on the Effective Date and continue for a period of one (1) year, automatically renewing for successive one-year terms unless terminated as provided herein.
+
+3.2 Either party may terminate this Agreement without cause by providing 90 days' written notice to the other party.
+
+3.3 Either party may terminate this Agreement for cause, including but not limited to, breach of any material term of this Agreement, by providing 30 days' written notice, allowing the breaching party an opportunity to cure within that period.
+
+4. Compliance
+4.1 Both parties agree to comply with all applicable federal, state, and local laws, including but not limited to, the Health Insurance Portability and Accountability Act (HIPAA) and the Affordable Care Act (ACA).
+
+4.2 The Provider agrees to cooperate with the Payer's utilization review, quality assurance, and audit processes.
+
+5. Indemnification
+5.1 Each party agrees to indemnify, defend, and hold harmless the other party from and against any and all claims, damages, liabilities, and expenses arising out of or related to the performance of this Agreement, except to the extent caused by the indemnified party's gross negligence or willful misconduct.
+
+6. Confidentiality
+6.1 The parties acknowledge that they may have access to confidential information, including but not limited to, patient health information and proprietary business information. Both parties agree to maintain the confidentiality of such information and use it only as necessary to perform under this Agreement.
+
+7. Dispute Resolution
+7.1 Any disputes arising under this Agreement shall be resolved through good-faith negotiations. If the dispute cannot be resolved through negotiations, it shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.
+
+8. Miscellaneous
+8.1 This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements and understandings.
+
+8.2 This Agreement may be amended only by a written document signed by both parties.
+
+8.3 This Agreement shall be governed by and construed in accordance with the laws of the State of Nebraska.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+Payer:
+_____________________________
+Name: John Doe
+Title: CEO, HealthSecure Insurance Company
+Date: August 19, 2024
+
+Provider:
+_____________________________
+Name: Jane Smith
+Title: Medical Director, Evergreen Health Services
+Date: August 19, 2024
+
+---
+
+Exhibit A - Services Provided
+[List of services, e.g., Primary Care, Cardiology, Orthopedics, Emergency Care, etc.]
+
+---
+
+Exhibit B - Fee Schedule
+[Detailed fee schedule for various services, e.g., office visit: $100, X-ray: $50, etc.]
